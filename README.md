@@ -16,12 +16,14 @@
 # Installation 
 
  ```
- wget https://raw.githubusercontent.com/Mangeshrex/rxfetch/main/rxfetch
+ cd $HOME; wget https://raw.githubusercontent.com/Mangeshrex/rxfetch/main/rxfetch
  ```
 
  (make the file executable and put rfetch in /bin or your PATH)
 
- ```sudo cp $HOME/rfetch/rfetch /usr/bin ```
+ ```chmod +x rxfetch```
+
+ ```sudo cp $HOME/rfetch /usr/bin ```
 
 
 - 
